@@ -1,0 +1,16 @@
+{
+  "name": "padrao",
+  "version": "1.0.0",
+  "description": "Tema Padrao",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Tema Padrao\" && exit 1"
+  },
+  "author": "Agência Moustache",
+  "license": "ISC",
+  "devDependencies": {
+      "gulp": "^4.0.2",
+      "gulp-sass": "^5.1.0",
+      "sass": "^1.54.4"
+  }
+}
