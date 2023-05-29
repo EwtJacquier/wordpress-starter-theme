@@ -6,7 +6,7 @@
   "scripts": {
       "test": "echo \"Tema Padrao\" && exit 1"
   },
-  "author": "Agência Moustache",
+  "author": "Ewerton",
   "license": "ISC",
   "devDependencies": {
       "gulp": "^4.0.2",

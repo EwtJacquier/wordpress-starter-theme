@@ -144,7 +144,7 @@ Now, let's make a archive with a linux shell script and put it inside the folder
 	git remote add origin https://github.com/"$USUARIO"/"$PROJETO".git 
 	git add .
 	git commit -am "Initializing project"
-	git push origin master
+	git push origin main
 	# Creates a develop branch for the project
 	git checkout -b develop
 	git push origin develop
@@ -166,7 +166,7 @@ This file will be in charge of:
 * Create an empty project with updated Wordpress
 * Update the project with default theme
 * Update the project with the default pipeline
-* Upload the project to the repository with the develop and master branches created
+* Upload the project to the repository with the develop and main branches created
 
 After running bash, if there are no errors, the project has been created successfully.
 
